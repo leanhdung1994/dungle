@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Anh-Dung Le"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Toulouse, France"
   employer         : "Toulouse School of Economics"
   uri              : # URL
